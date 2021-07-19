@@ -5,6 +5,7 @@ html {
 html * {
   box-sizing: border-box;
 }
+@media=”screen and (max-width: 780px)”；
 body{
  text-align:center;
  font-size:90%;
